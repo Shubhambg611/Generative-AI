@@ -5,3 +5,6 @@ scikit-learn
 seaborn
 ipykernel
 tensorflow[and-cuda]
+streamlit
+flask 
+memory_profiler
