@@ -8,3 +8,5 @@ tensorflow[and-cuda]
 streamlit
 flask 
 memory_profiler
+nltk
+spacy
