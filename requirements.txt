@@ -11,3 +11,4 @@ memory_profiler
 nltk
 spacy
 words
+svgling
