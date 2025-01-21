@@ -43,3 +43,4 @@ sentence-transformers
 langchain_huggingface
 tf-keras
 faiss-gpu-cu12
+langchain_chroma
