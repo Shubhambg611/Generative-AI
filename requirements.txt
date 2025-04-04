@@ -46,3 +46,7 @@ faiss-gpu-cu12
 langchain_chroma
 streamlit
 langchain_community
+langchain_groq
+langchain_chroma
+bs4
+langchain_groq
